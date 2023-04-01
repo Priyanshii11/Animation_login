@@ -1,4 +1,4 @@
-# Animation_login 😀
+# Animation Login 😀
 This is an Android animated background application which contains multiple photos that are animated as the background. 
 The background also changes after a certain amount of time (in seconds). 
 
